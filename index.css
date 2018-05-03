@@ -1,0 +1,53 @@
+@import 'https://fonts.googleapis.com/css?family=Fjalla+One';
+
+header {
+  background: white;
+  Color: black;
+  text-align: center;
+}
+
+body {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+#container {
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#container #left {
+  width: 750px;
+  border-right: 3px solid;
+  float: left;
+  height: 100%;
+}
+
+#container #right {
+  width: 380px;
+  float: right;
+  height: 100%;
+
+}
+
+.Contact-Info {
+  margin-left: 305px;
+  width: 200px;
+}
+
+h3 {
+  font-family: sans-serif;
+  font-weight: bold;
+  color: #4286f4;
+  font-weight: bold;
+}
+img{
+  width: 250px;
+  height: 200px;
+  border-radius: 50%;
+}
+.Education, .tech-skills, .Languages {
+
+}
