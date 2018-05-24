@@ -45,6 +45,7 @@
 ## Education
 
 #### _Careerforce_, SalesForce University, San Francisco, CA 8/17 - 10/17 | Admin Certification Training in Salesforce
+* A one year fully immersive and blended learning curriculum on training and developing the next generation of Certified Salesforce Administrators from diverse backgrounds.
 
 #### _San Francisco State University_, San Francisco, CA 08/09 - 05/15 | Spanish B.A. and Latina/o Studies B.A
 
