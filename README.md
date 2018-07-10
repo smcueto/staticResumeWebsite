@@ -5,7 +5,7 @@
  - [LinkedIn](https://www.linkedin.com/in/stephaniecueto/)
  - [GitHub](https://github.com/smcueto)
 
-![Stephanie's Photo](public/stephaniecueto.jpeg "Stephanie Cueto")
+![Stephanie's Photo](public/stephaniecueto.jpeg "Stephanie Cueto" )
 
 
 ## Work Experience
@@ -34,13 +34,13 @@
 
 *   Randomly generated recipes including snacks, appetizers, desserts, and meals.
 
-#### [Personal Website](https://smcueto.github.io/stephaniecueto/) | _Static website_
+#### [Personal Website](https://stephaniemcueto.herokuapp.com/index.html) | _Heroku Static Website_
 
-*   Personal resume website build on html and css.
+*   Personal resume website build on html and css. Deployed on Heroku.
 
-#### [Best Taquerias SF](https://mission-techies.github.io/best-taquerias/) | _Mobile Website Static Site_
+#### [Salient Alert](https://github.com/smcueto/salientAlert) | _Salient Alert Deployed on Heroku_
 
-*   Information on the best Taquerias in San Francisco.San Francisco, CA  
+*   Salient Alert is a online community space for people to report ICE Raids or Checkpoints that are happening. Project build on the MERN Stack 
 
 ## Education
 

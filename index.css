@@ -23,12 +23,15 @@ body {
   border-right: 3px solid;
   float: left;
   height: 100%;
+  text-align: left;
+  padding-right: 30px;
 }
 
 #container #right {
   width: 380px;
   float: right;
   height: 100%;
+  padding-top: 50px;
 
 }
 
@@ -48,6 +51,4 @@ img{
   height: 200px;
   border-radius: 50%;
 }
-.Education, .tech-skills, .Languages {
 
-}
