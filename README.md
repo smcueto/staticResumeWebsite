@@ -5,7 +5,7 @@
  - [LinkedIn](https://www.linkedin.com/in/stephaniecueto/)
  - [GitHub](https://github.com/smcueto)
 
-![Stephanie's Photo](public/stephaniecueto.jpeg "Stephanie Cueto" )
+![Stephanie's Photo](public/headshot.PNG "Stephanie Cueto" )
 
 
 ## Work Experience
