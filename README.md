@@ -2,15 +2,19 @@
 
 #### Contact Information
  - [stephaniem.cueto@gmail.com](mailto:stephaniem.cueto@gmail.com)
- - [LinkedIn](https://www.linkedin.com/in/stephaniecueto/)
+ - [LinkedIn](https://www.linkedin.com/in/smcueto/)
  - [GitHub](https://github.com/smcueto)
 
 ![Stephanie's Photo](public/headshot.PNG "Stephanie Cueto" )
 
 
 ## Work Experience
+#### Mixpanel, San Francisco, CA | _Support Engineer_ July 2018 - Present
 
-#### Techtonica, San Francisco, CA | _Software Engineer Apprentice_ January 2018 - Present
+* Mixpanel is the world’s most advanced analytics platform for mobile and web, and it is our mission to help the world learn from its data.
+* As Mixpanel product experts, Support Engineers solve challenging technical problems across platforms for our customers every day. Our team is energized by teaching, training, and collaborative problem-solving; we continuously learn new technical concepts to develop and improve our programming skills. Our goal is to never stop learning.
+
+#### Techtonica, San Francisco, CA | _Software Engineer Apprentice_ January 2018 - July 2018
 
 *   Techtonica is a six-month software engineering apprenticeship program for aspiring Bay Area women and non-binary adults.
 *   Built websites with Tech Stack: React, Express, MySQL, Node.js
