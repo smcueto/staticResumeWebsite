@@ -39,6 +39,9 @@ body {
   margin-left: 305px;
   width: 200px;
 }
+#tech-skills-list{
+  margin-left: 35px;
+}
 
 h3 {
   font-family: sans-serif;
